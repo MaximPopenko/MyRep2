@@ -1,5 +1,5 @@
 DEBUG = False
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['31.41.219.178']
 
 DATABASES = {
     'default': {
